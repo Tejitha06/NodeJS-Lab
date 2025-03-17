@@ -1,0 +1,47 @@
+body {
+
+font-family: 'Arial', sans-serif;
+
+margin: 0;
+
+padding: 0;
+
+}
+
+header {
+
+background-color: #acbaco;
+
+color: #ffffff;
+
+padding: 10px;
+
+text-align: center;
+
+}
+
+nav ul {
+
+list-style: none;
+
+padding: 0;
+
+display: flex;
+
+justify-content: center;
+
+}
+
+nav li {
+
+margin: 0 10px;
+
+}
+
+main {
+
+padding: 20px;
+
+}
+
+/* Add more styles based on your design */
